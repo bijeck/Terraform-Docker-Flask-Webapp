@@ -16,13 +16,10 @@ __pycache__/
 #readme
 README.md
 
+#.gitignore
+.gitignore
+
+
 ### Terraform ###
 # Local .terraform directories
-*/.terraform/
-
-# .tfstate files
-*.tfstate
-.tfstate.
-
-*.tfvars
-*.tfvars.json
+terraform
